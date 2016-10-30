@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnMyWayHome</string>
+    <string name="action_settings">Settings</string>
+    <string name="serviceToggle">Service</string>
+</resources>
